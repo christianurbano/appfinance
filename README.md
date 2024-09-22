@@ -32,7 +32,7 @@ O aplicativo se conecta a uma API para obter informações atualizadas sobre aç
 
   ```bash
   npm install
-  
+
 3. Inicie o aplicativo com Expo:
   
   ```bash
