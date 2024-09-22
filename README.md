@@ -35,3 +35,5 @@ O aplicativo se conecta a uma API para obter informações atualizadas sobre aç
 
    ```bash
    npx expo start
+
+Você verá um QR code no terminal ou no navegador. Use o aplicativo Expo Go em seu dispositivo móvel para escanear o QR code e visualizar o aplicativo. Você também pode usar um simulador Android ou iOS.
