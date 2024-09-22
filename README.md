@@ -23,17 +23,15 @@ O aplicativo se conecta a uma API para obter informações atualizadas sobre aç
 ## Instalação
 
 1. Clone o repositório:
-
    ```bash
    git clone https://github.com/christianurbano/appfinance.git
    cd app-finance
 
 2. Instale as dependências:
-
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 3. Inicie o aplicativo com Expo:
-  
-  ```bash
-  npx expo start
+
+   ```bash
+   npx expo start
