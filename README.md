@@ -30,10 +30,10 @@ O aplicativo se conecta a uma API para obter informações atualizadas sobre aç
 
 2. Instale as dependências:
 
-  bash
+  ```bash
   npm install
   
 3. Inicie o aplicativo com Expo:
   
-  bash
+  ```bash
   npx expo start
